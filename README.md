@@ -1,2 +1,2 @@
 # Python
-Python Fake Person Generator
+Just Run it
